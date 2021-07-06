@@ -1,0 +1,75 @@
+body{
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+    margin-right: 0;
+}
+h1{
+    font-size: 70px;
+}
+.orange{
+    color: darkorange;
+}
+.display-container{
+    display: flex;
+    margin-bottom: 5%;
+}
+.padding{
+    padding-left: 6%;
+    padding-top: 10%;
+}
+.padding img{
+    padding-right: 8%;
+}
+.order-list{
+    text-decoration: none;
+    background-image: linear-gradient(darkorange,tomato);
+    font-weight: 800;
+    padding: 20px 40px;
+    color: white;
+    border-radius: 40px;
+}
+.about-me{
+    background-image: url(images/7.png);
+}
+.recipes-area{
+    text-align: center;
+}
+.display-item{
+    width: auto;
+    display: flex;
+    text-align: center;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+.recipes-title{
+    width: 40%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 40px;
+}
+.social-dis{
+    width: 40%;
+    padding-right: 50%;
+    padding-left: 30%;
+    padding-bottom: 8%;
+}
+.link-display{ 
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+}
+footer{
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+}
+.gray{
+    color: lightslategray;
+}
+#footer-id{
+    background-color: black;
+    padding-bottom: 10%;
+}
